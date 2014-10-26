@@ -1,0 +1,12 @@
+CREATE TABLE users(
+ID int NOT NULL AUTO_INCREMENT,
+UN varchar(255),
+PW varchar(255),
+NAME varchar(255),
+PRIMARY KEY (ID));
+
+CREATE TABLE quotes(
+Q_ID int NOT NULL AUTO_INCREMENT,
+QUOTE varchar(255),
+UP_VOTES int,
+PRIMARY KEY (Q_ID)); 

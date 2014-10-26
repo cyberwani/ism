@@ -1,0 +1,26 @@
+/* Custom Styling for Site */
+body {
+  background-color: #22313F;
+  padding-top: 20px;
+}
+.quoteText {
+  font-family: 'Coming Soon', cursive;
+  font-size: 1.4em;
+}
+
+.alignRight {
+  float: right;
+}
+
+.quoteCard {
+  /*background-color: #EEE;*/
+}
+
+
+/* Freewall CSS */
+#freewall {
+  margin: auto;
+}
+.item {
+  width: 320px;
+}

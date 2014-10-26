@@ -3,7 +3,7 @@
 
 -ism is a simple project based on a friend of mine. Sometimes when he is talking he completely butchers a common phrase and it just makes you scratch your head.
 
-A demo can be found by clicking this link: http://ism.JoeyGrasso.com
+A demo can be found by clicking this link: http://www.ism.JoeyGrasso.com
 
 ### Background / Specs 'n Stuff
 I am writing this in PHP using CodeIgniter (https://ellislab.com/codeigniter), CSS (http://getbootstrap.com), and with some Google Web Fonts thrown in. MySQL and such for the data. I'm going to do my best to keep it anonymized that way you can clone it, throw it on your server and then have a simple quote site for your friend, celebrity, politician, or whoever.
